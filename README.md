@@ -3,6 +3,8 @@ Yes, you read it right: QUANTUM PROGRAMMING : )
 
 ## First step: (learning what is quantum computing) 
 * https://youtu.be/g_IaVepNDT4 | How Does a Quantum Computer Work?
+* https://www.youtube.com/watch?v=JhHMJCUmq28 | 
+* https://www.youtube.com/watch?v=rtI5wRyHpTg
 
 ## Video Demo
 * https://youtu.be/v7b4J2INq9c
